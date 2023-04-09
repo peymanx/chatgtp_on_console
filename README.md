@@ -22,3 +22,11 @@ Set-Alias chat c:\path\to\file\chatgpt.ps1
 Now you can access to script by typing `chat` everywhere.
 
 
+## Persian result
+Ok, as a persian guy if you want to get persian result add `-fa` as a switch like:
+```powershell
+.\chatgpt.ps1 -p "Iran Capital" -fa
+```
+#### Output 
+`تهران`
+
