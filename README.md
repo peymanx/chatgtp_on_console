@@ -32,6 +32,15 @@ Ok, as a persian guy if you want to get persian result add `-fa` as a switch lik
 
 ![image](https://user-images.githubusercontent.com/110537772/230758081-06398cb9-ee44-451c-b50c-1d4a5c186ab1.png)
 
+## Write a program
+Describe a game or a program and redirect the output to a file like:
+```powershell
+.\chatgpt.ps1 -o tic-tac-toe.py
+```
 
-* [Account API Keys - OpenAI API](https://platform.openai.com/account/api-keys)
+![image](https://user-images.githubusercontent.com/110537772/230758316-00bff19b-c2cf-4ef2-8d2a-e05feb6c844a.png)
+
+
+[1] [Account API Keys - OpenAI API](https://platform.openai.com/account/api-keys)
+
 
