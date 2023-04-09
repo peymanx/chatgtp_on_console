@@ -35,7 +35,7 @@ $body = @{
     "model"       = "text-davinci-003"
     "prompt"      = $prompt
     "temperature" = 0.5
-    "max_tokens"  = 1000
+    "max_tokens"  = 4000
 } | ConvertTo-Json
 
 $url = "https://api.openai.com/v1/completions"
