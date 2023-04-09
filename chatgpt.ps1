@@ -24,7 +24,7 @@ $PSDefaultParameterValues['*:Encoding'] = 'utf8'
 
 $headers = @{
     "Content-Type"  = "application/json"
-    "Authorization" = "Bearer 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"
+    "Authorization" = "Bearer YOUR-API-KEY"
 }
 
 if ($persian) {
