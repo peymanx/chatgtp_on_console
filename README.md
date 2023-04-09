@@ -4,7 +4,7 @@
 The ChatGPT CLI (Command Line Interface) example is a PowerShell script that allows developers to interact with the ChatGPT model through the command line. With the ChatGPT CLI PowerShell script, developers can easily generate text, complete text, or answer questions using the power of the ChatGPT model. ChatGPT is a large language model developed by OpenAI that can generate human-like text.
 
 ## How to use
-Download the script and put it somewhere, make sure updating the **API Key** * with your own; then go to the path and execute the script:
+Download the script and put it somewhere, make sure updating the **API Key** [1] with your own; then go to the path and execute the script:
 
 ```powershell
 .\chatgpt.ps1 -p "Iran Capital"
